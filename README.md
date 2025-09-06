@@ -4,5 +4,7 @@ This repository contains three assignments for the AI Engineer (NLP) position at
 # Contents:
 
 Assignment 1: Part of Speech in Arabic
+
 Assignment 2: Homonyms Problem
+
 Assignment 3: Semantic Search in Articles with Extracting Hot Keywords
